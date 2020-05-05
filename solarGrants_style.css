@@ -1,0 +1,19 @@
+
+.optionsGrant{
+    grid-column: 1 / 13;
+    grid-row: 2 / 7;
+}
+
+.fas{
+    font-size: x-large;
+}
+#solarQuote{
+    grid-column: 1 / 13;
+    grid-row: 7 / 8;
+    padding: 35px;
+    color: rgb(217, 185, 89);
+    background-color:white;
+    font-weight: bolder;
+    /* border: double rgb(238, 137, 13); */
+    box-shadow: 0 0 20px 0 rgba(53, 115, 97, 0.7); 
+}

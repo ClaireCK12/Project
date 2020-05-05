@@ -1,0 +1,14 @@
+.optionsPrivacy{
+    grid-column: 1 / 13;
+    grid-row: 2 / 7;
+}
+.privacy{
+    list-style-type: lower-roman;
+}
+
+.wrapper li{
+    text-align: left;
+}
+p{
+    text-align: left;
+}

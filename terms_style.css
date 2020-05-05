@@ -1,0 +1,15 @@
+.optionsTerms{
+    grid-column: 1 / 13;
+    grid-row: 2 / 9;
+}
+
+h4{
+    text-align: center;
+}
+.wrapper li{
+    text-align: left;
+}
+
+.conditions{
+    list-style-type: lower-roman;
+}
